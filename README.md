@@ -60,7 +60,7 @@ When the push button is released, `P1.2` becomes LOW. The microcontroller makes 
 8. Switch ON the transistor, buzzer, and speaker.
 9. If the button is released, make `P3.2` LOW.
 10. Switch OFF the transistor, buzzer, and speaker.
-11. Repeat the process continuously.
+11. Repeat the process continuously.,
 
 ## Embedded C Program
 
